@@ -1,9 +1,10 @@
-# JUnit Framework
+# JUnit - Unit Testing Framework
 
 This repository contains a JUnit framework for automated testing of web applications.
 
 ## Features
 
+- JUnit is one of the popular Unit Testing Frameworks.
 - Utilizes Selenium WebDriver for web automation.
 - Implements BDD methodology with Cucumber for writing test scenarios in plain English.
 - Easy to understand Gherkin syntax for writing feature files.
